@@ -11,7 +11,7 @@ Graphics = Intel HD Graphics 620
 Software:\
 OS        = x86_64 GNU/LINUX Mint 19.2(Tina)\
 Gcc & G++ = 7.4.0\
-Lisp      = SBCL Steel Bank Common Lisp\
+Lisp      = SBCL Steel Bank Common Lisp 1.4.5\
 OpenGL    = 3.0 Mesa 19.0.8
 
 Test Rig Configuration:\
